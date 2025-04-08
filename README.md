@@ -1,3 +1,5 @@
+## Quem sou?
+
 Estudante de Análise e Desenvolvimento de Sistemas  
 Estudando Python com foco em Análise de Dados  
 Interessado em Machine Learning e Estrutura de Dados  
