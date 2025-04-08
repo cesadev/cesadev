@@ -3,7 +3,8 @@
 Estou no Terceiro Período de Análise e Desenvolvimento de Sistemas  
 Estudando Python com foco em Análise de Dados  
 Interessado em Machine Learning e Estrutura de Dados  
-
+Falo Inglês, Espanhol e estou aprendendo Francês
+Passo boa parte do meu tempo estudando.
 ---
 
 ## O que estou fazendo agora
@@ -13,7 +14,6 @@ Interessado em Machine Learning e Estrutura de Dados
 
 
 ---
-
 ## Objetivos
 - Explorar o mundo da análise de dados com Pandas e Matplotlib
 - Me tornar Analista de Dados
