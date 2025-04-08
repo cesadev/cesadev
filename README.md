@@ -1,10 +1,10 @@
 ## Quem sou?
 
-Estou no Terceiro Período de Análise e Desenvolvimento de Sistemas  
-Estudando Python com foco em Análise de Dados  
-Interessado em Machine Learning e Estrutura de Dados  
-Falo Inglês, Espanhol e estou aprendendo Francês
-Passo boa parte do meu tempo estudando.
+- Estou no Terceiro Período de Análise e Desenvolvimento de Sistemas  
+- Estudando Python com foco em Análise de Dados  
+- Interessado em Machine Learning e Estrutura de Dados  
+- Falo Inglês, Espanhol e estou aprendendo Francês
+- Passo boa parte do meu tempo estudando.
 ---
 
 ## O que estou fazendo agora
