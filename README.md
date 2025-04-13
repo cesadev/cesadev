@@ -8,8 +8,8 @@
 ---
 
 ## O que estou fazendo agora
+- Projeto caioGPT (Integrando a API do gemini numa direct do Discord sem usar a API do discord)
 - Aprendendo lógica de programação e estruturas em Python
-- Praticando com exercícios e projetos pequenos
 - Concluindo os primeiros cursos de automação com python
 
 
