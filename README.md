@@ -14,7 +14,7 @@
 
 ---
 ## Objetivos
-- Explorar o mundo da análise de dados com Pandas e Matplotlib
+- Explorar o mundo da programação e tecnologia no geral
 - Escolher uma área para me especializar
 - Dominar Python, SQL e ferramentas de visualização
 - Estudar Machine Learning no futuro
