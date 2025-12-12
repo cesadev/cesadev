@@ -1,2 +1,2 @@
-Atualmente tenho 20 anos e algumas idéias de projetos para 2026.
-Trarei atualizações em breve.
+Desenvolvedor Web 
+![frieren-water](https://github.com/user-attachments/assets/23a03a46-1007-46ed-97bf-13f994bd3df4)
