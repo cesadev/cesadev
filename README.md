@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Cesa
+# 👋 Cesar
 
 (Quase) Desenvolvedor FullStack, 20 anos.<br>
 Programo aquilo que facilitará a minha vida.<br>
