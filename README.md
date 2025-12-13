@@ -24,4 +24,4 @@ Programo aquilo que facilitará a minha vida.<br>
 
 ---
 
-Dá uma olhada nos meus repositórios, provavelmente encontrará algo útil para a sua rotina na web!
+Dá uma olhada nos meus repositórios, provavelmente vai achar algo útil para a sua rotina!
