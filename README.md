@@ -8,7 +8,7 @@ Programo principalmente para facilitar a minha vida.<br>
 ## Sobre mim
 
 * Estou sempre estudando ou jogando algo, Meu objetivo atual é me tornar um Dev FullStack ou um Data Scientist e me estabelecer na área.
-* Almejo me tornar um estudante de Ciência da Computação na UFPE 2026.
+* 1º Período em Sistemas de Informação na UFPE.
 
 ## Tecnologias que estou estudando
 
