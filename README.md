@@ -1,14 +1,16 @@
 # 👋 Cesar
 
-(Quase) Desenvolvedor FullStack, 20 anos.<br>
-Programo principalmente para facilitar a minha vida.<br>
+<br>Iniciante em Tecnologia, 20 anos.<br>
+Quero programar principalmente para facilitar a minha vida.<br>
 
 ![frieren-water](https://github.com/user-attachments/assets/23a03a46-1007-46ed-97bf-13f994bd3df4)
 
 ## Sobre mim
 
-* Estou sempre estudando ou jogando algo, Meu objetivo atual é me tornar um Dev FullStack ou um Data Scientist e me estabelecer na área.
-* 1º Período em Sistemas de Informação na UFPE.
+* Calouro em Sistemas de Informação no CIN da UFPE.
+* Sou artista, faço desenhos, pinturas, toco violão e escrevo poesias.
+* Costumo jogar LOL e Stardew Valley
+
 
 ## Tecnologias que estou estudando
 
@@ -17,11 +19,10 @@ Programo principalmente para facilitar a minha vida.<br>
 
 ## Idiomas
 
-* Português (PT-BR) — nativo
-* Inglês (EN-US) — fluente
-* Espanhol (ES-ES) — intermediário
-* Francês (FR-FR) — intermediário
+* Inglês (EN-US) — Converso, leio e escuto
+* Espanhol (ES-ES) — Leio e escuto
+* Francês (FR-FR) — Iniciante
 
 ---
 
-Dá uma olhada nos meus repositórios, provavelmente vai achar algo útil para a sua rotina!
+Pretendo fazer algumas aplicaçoes úteis para a minha vida.
