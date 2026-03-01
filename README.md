@@ -25,4 +25,3 @@ Quero programar principalmente para facilitar a minha vida.<br>
 
 ---
 
-Pretendo fazer algumas aplicaçoes úteis para a minha vida.
