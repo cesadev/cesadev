@@ -8,7 +8,7 @@ Quero programar principalmente para facilitar a minha vida.<br>
 ## Sobre mim
 
 * Calouro em Sistemas de Informação no CIN da UFPE.
-* Sou artista, faço desenhos, pinturas, toco violão e escrevo poesias.
+* Sou artista: faço desenhos, pinturas, toco violão e escrevo poesias.
 * Costumo jogar LOL e Stardew Valley
 
 
