@@ -20,9 +20,9 @@
 
 ## Idiomas
 
-* Inglês (EN-US) — Converso, leio e escuto
-* Espanhol (ES-ES) — Leio e escuto
-* Francês (FR-FR) — Iniciante
+🇧🇷 PT-BR (nativo)
+🇺🇸 EN (intermediate)
+🇫🇷 FR (beginner)
 
 ---
 
