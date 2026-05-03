@@ -5,18 +5,18 @@
 ## Sobre mim
 
 * Graduando em Sistemas de Informação @ CIN | UFPE
-* Atualmente Aprendendo: Python - Estruturas de Dados - Algoritmos
+* Atualmente Aprendendo: Python - Estruturas de Dados - Algoritmos - Arquitetura de Software
 * Tenho 20 anos
-* Costumo jogar LOL, Xadrez, e Hollow Knight
 * Estudo Idiomas, Música e Artes num geral
 
 
 ## Áreas de Interesse
 
-* LLMs (Machine Learning)
-* Engenharia de Dados
-* Automações
 * Desenvolvimento Back-End
+* LLMs (Machine Learning)
+* Desenvolvimento de Jogos
+* Engenharia de Dados
+
 
 ## Idiomas
 
