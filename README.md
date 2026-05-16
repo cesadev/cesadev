@@ -4,25 +4,26 @@
 
 ## Sobre mim
 
-* Graduando em Sistemas de Informação @ CIN | UFPE
-* Atualmente Aprendendo: Python - Estruturas de Dados - Algoritmos - Arquitetura de Software
+* Foco em Software Engineer | Estudante de Sistemas de Informação @ CIn-UFPE
 * Tenho 20 anos
 * Estudo Idiomas, Música e Artes num geral
 
+#### O que estou estudando agora
+- Java e Python
+- Estruturas de Dados e Algoritmos
+- Arquitetura de Software e boas práticas (POO, Design Patterns)
 
-## Áreas de Interesse
+#### Áreas de Interesse
+- Desenvolvimento Back-End
+- Engenharia de Dados
+- LLMs e Machine Learning
+- Desenvolvimento de Jogos
 
-* Desenvolvimento Back-End
-* LLMs (Machine Learning)
-* Desenvolvimento de Jogos
-* Engenharia de Dados
+#### Tecnologias e Ferramentas em Estudo
+- Tecnologias: Java, Python, JavaScript/TypeScript
+- Frameworks: Spring Boot, React, Next.js, Flask
 
-
-## Idiomas
-
-🇧🇷 PT-BR (nativo)
-🇺🇸 EN (intermediate)
-🇫🇷 FR (beginner)
-
----
-
+#### Idiomas
+- Português: Nativo
+- Inglês: Intermediário
+- Francês: Iniciante
