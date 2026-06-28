@@ -1,6 +1,6 @@
 # 👋 Caio
 
-![frieren-water](https://github.com/user-attachments/assets/c1c155d6118dea54c34c2e3ad8022a0d)
+![frieren-water](c1c155d6118dea54c34c2e3ad8022a0d.gif)
 
 ## Sobre mim
 
