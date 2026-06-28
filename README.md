@@ -1,22 +1,21 @@
-# 👋 Cesar
+# 👋 Caio
 
-![frieren-water](https://github.com/user-attachments/assets/23a03a46-1007-46ed-97bf-13f994bd3df4)
+![frieren-water](https://github.com/user-attachments/assets/c1c155d6118dea54c34c2e3ad8022a0d)
 
 ## Sobre mim
 
 * Foco em Software Engineer | Estudante de Sistemas de Informação @ CIn-UFPE
+* Membro da LAJE (Liga Acadêmica de Jogos Eletrônicos no CIn-UFPE)
 * Tenho 20 anos
-* Estudo Idiomas, Música e Artes num geral
+* Estudo Desenvolvimento Back-end e Arquitetura de Sistemas
 
 #### O que estou estudando agora
-- Java e Python
-- Estruturas de Dados e Algoritmos
+- Java, Javascript e Python
 - Arquitetura de Software e boas práticas (POO, Design Patterns)
 
 #### Áreas de Interesse
-- Desenvolvimento Back-End
-- Engenharia de Dados
-- LLMs e Machine Learning
+- Desenvolvimento Web
+- IoT
 - Desenvolvimento de Jogos
 
 #### Tecnologias e Ferramentas em Estudo
